@@ -1,0 +1,5 @@
+/*Código de logo de cursos*/
+<div class="body-baner">
+<div class="imgbaner">
+	<img id="imgeb" src="http://educacion.be/campus/images/corel-draw.png">
+	<img id="imgeb" src="http://educacion.be/campus/images/Adobe-photoshop-CS6.png"><img id="imgeb" src="http://educacion.be/campus/images/fireworks-logo.png"><img id="imgeb" src="http://educacion.be/campus/images/wordpress-logo.png"><img id="imgeb" src="http://educacion.be/campus/images/javascript-logo.png"><img id="imgeb" src="http://educacion.be/campus/images/html-logo.png"><img id="imgeb" src="http://educacion.be/campus/images/CSS3-logo.png"><img id="imgeb" src="http://educacion.be/campus/images/mysql-logo.png"><img id="imgeb" src="http://educacion.be/campus/images/programacion-logo.png"><img id="imgeb" src="http://educacion.be/campus/images/visualstudio-logo.png"></div><div id="banertext">Aprende desde cero a crear el futuro de la web. Cursos de Desarrollo, Diseño, Marketing, y Negocios.</div></div>
